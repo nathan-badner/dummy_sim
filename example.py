@@ -26,3 +26,4 @@ p = Point(1, 2, 3, 43)
 #print p.data
 #print p.data.foo
 print p.data.velocity
+
